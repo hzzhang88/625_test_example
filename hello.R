@@ -1,3 +1,4 @@
 print("hello")
-
 y = 1
+
+x  = x+1
